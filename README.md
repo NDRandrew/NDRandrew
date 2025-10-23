@@ -101,7 +101,7 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/React-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Data & Visualization
@@ -226,15 +226,6 @@ skills_developed:
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/NDRandrew/NDRandrew/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ---
 
@@ -250,19 +241,6 @@ skills_developed:
   
 </div>
 
----
-
-<details>
-  <summary><b>📊 More Stats</b></summary>
-  <br>
-  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=NDRandrew&theme=tokyo-night&hide_border=true&area=true)
-  
-  <br>
-  
-  ![Metrics](https://metrics.lecoq.io/NDRandrew?template=classic&config.timezone=America%2FSao_Paulo)
-  
-</details>
 
 ---
 
