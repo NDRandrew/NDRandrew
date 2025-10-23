@@ -97,12 +97,13 @@ me.say_hi()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-### Tools & Platforms
+### Tools/Platforms/Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![React](https://img.shields.io/badge/React-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F37626?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-F37626?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAI](https://img.shields.io/badge/FastAI-F37626?style=for-the-badge&logo=fastai&logoColor=black)
 
 ### Data & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
